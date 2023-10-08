@@ -2,10 +2,6 @@
 
 This Simple Airline Reservation system was developed as the semester project of Semester 4 CS3042 Database Systems Module.
 
-- You can visit the demo site from [HERE](https://b-airways.herokuapp.com/)
-- Click [HERE](https://b-airways.herokuapp.com/staff/register) to register to the system as a staff member
-- Admin security key is ``UAr1Gg4xEdPFIh2o580TOaTmmkjFDVdP``.
-
 ## Screenshots
 
 | **Home Page**                                            | **Flight Search Page**                                             |
